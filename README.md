@@ -29,6 +29,10 @@ Audio does seem to work under some circumstances ([#1](https://github.com/x-t/x2
 
 ![sc](https://i.arxius.io/d20e0112.png)
 
+## Observation - Display brightness
+
+Brightness seems to be messed up in Catalina, with it being almost 5 notches brighter in Mojave or High Sierra. I don't remember a difference with/without `AppleBacklightInjector.kext`
+
 ## Installation changes from Mojave
 
 * No need to boot back into the installer to run the post-install tool, the patches are applied during the install.
