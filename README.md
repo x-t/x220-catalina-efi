@@ -25,6 +25,10 @@ Audio doesn't work, at all. Tried `AppleHDA_20672.kext` and [AppleALC](https://g
 
 ![No output devices](https://i.arxius.io/62337b3b.png)
 
+Audio does seem to work under some circumstances ([#1](https://github.com/x-t/x220-catalina-efi/issues/1)), but personally I haven't had luck with it.
+
+![sc](https://i.arxius.io/d20e0112.png)
+
 ## Installation changes from Mojave
 
 * No need to boot back into the installer to run the post-install tool, the patches are applied during the install.
