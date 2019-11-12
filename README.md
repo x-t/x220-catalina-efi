@@ -21,6 +21,8 @@ There are some things I don't bother to test because I don't use/have the things
 
 ## Issue - Audio
 
+*This part is outdated, at this point you most likely have audio working. Follow issue #1. I just don't have the time to try myself. [Link to kexts](https://github.com/x-t/x220-catalina-efi/files/3701053/Kexts.zip).*
+
 Audio doesn't work, at all. Tried `AppleHDA_20672.kext` and [AppleALC](https://github.com/acidanthera/AppleALC) with [Lilu](https://github.com/acidanthera/Lilu), neither can output any audio.
 
 ![No output devices](https://i.arxius.io/62337b3b.png)
