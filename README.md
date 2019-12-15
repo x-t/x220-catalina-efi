@@ -30,13 +30,15 @@ It has been solved. Make sure to boot back into the installer and launch Post-in
 
 ~~Audio does seem to work under some circumstances ([#1](https://github.com/x-t/x220-catalina-efi/issues/1)), but personally I haven't had luck with it.~~
 
-## Observation - Display brightness
+## *Solved?* Observation - Display brightness
 
 Brightness seems to be messed up in Catalina, with it being almost 5 notches brighter in Mojave or High Sierra. ~~I don't remember a difference with/without `AppleBacklightInjector.kext`~~
 
 Currently you have two options:
 * Install `AppleBacklightInjector.kext` and have 100% brightness without the ability to turn it down
 * Don't install `AppleBacklightInjector.kext` and have a range of 0-60% brightness
+
+After putting my laptop to sleep and waking it back up again, all brightness options are back (`AppleBacklightInjector.kext` not installed)
 
 ## Regular issues not fixed by upgrading to Catalina
 
