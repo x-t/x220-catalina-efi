@@ -12,7 +12,7 @@ This repo is more for research than a guide, I cannot be bothered to make a guid
 
 Current status - it works as well as before
 
-There are some things I don't bother to test because I don't use/have the things
+There are some things I don't bother to test because I don't use/have the things:
 * Bluetooth
 * Webcam
 
@@ -24,8 +24,8 @@ There are some things I don't bother to test because I don't use/have the things
 
 ## Regular issues not fixed by upgrading to Catalina
 
-* Graphical glitches
-* Microphone volume is ignored and is stuck on 100%, ear raping everyone that has to listen to it
+* Graphical glitches.
+* Microphone volume is ignored and is stuck on 100%, ear raping everyone that has to listen to it.
 
 ## Installation changes from Mojave
 
